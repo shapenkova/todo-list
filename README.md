@@ -1,29 +1,25 @@
-# vue-todo-list
+# **SPA-приложение "Список заданий"**
 
-This template should help get you started developing with Vue 3 in Vite.
+## Как запустить?
 
-## Recommended IDE Setup
+1. Склонировать репозиторий к себе на ПК
+2. npm install
+3. npm run dev
+4. Готово!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Стэк технологий:
+- Vue 3
+- Vite
+- Composition API
+- Prettier
 
-## Customize configuration
+<details>
+  <summary>Скриншоты</summary>
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+  ### 
+  ![Страница приложения](/screen/img.jpeg)
 
-## Project Setup
+  ### 
+  ![Заполненная страница](/screen/img2.jpeg)
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+</details>
